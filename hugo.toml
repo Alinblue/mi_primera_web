@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://alinblue.github.io/mi_primera_web/public/'
+languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme="terminal"
 

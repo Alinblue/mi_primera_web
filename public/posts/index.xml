@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:52055/posts/</link>
+    <link>https://alinblue.github.io/mi_primera_web/public/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <lastBuildDate>Mon, 31 Mar 2025 18:45:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:52055/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alinblue.github.io/mi_primera_web/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Primer Post</title>
-      <link>http://localhost:52055/posts/mi-primer-post/</link>
+      <link>https://alinblue.github.io/mi_primera_web/public/posts/mi-primer-post/</link>
       <pubDate>Mon, 31 Mar 2025 18:45:08 +0200</pubDate>
-      <guid>http://localhost:52055/posts/mi-primer-post/</guid>
-      <description></description>
+      <guid>https://alinblue.github.io/mi_primera_web/public/posts/mi-primer-post/</guid>
+      <description>&lt;h1 id=&#34;este-es-mi-primer-post&#34;&gt;Este es mi primer post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;esta-es-una-descipcion-del-post&#34;&gt;Esta es una descipcion del post&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
