@@ -13,5 +13,13 @@ readingTime = false
 hideComments = false
 +++
 
-# Ejercicio 1
-## Dear data ejemplo
+## Práctica basada en el libro "Dear data"
+### Toma de datos en la vía urbana acerca de cómo se comporta la gente en la entrada y salida del tren.
+![ejercicio1](/img/ejercicio1.jpg)
+<div class="search-container">
+    <input type="text" id="ciudad" placeholder="Ingresa la ciudad">
+    <button id="submit">Buscar</button>
+</div>
+
+<script src="https://unpkg.com/p5js@1.2.18/p5.js/p5.min.js"></script>
+<script src="sketch.js"></script>

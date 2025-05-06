@@ -3,3 +3,6 @@ languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme="terminal"
 
+ignoreLogs= ['warning-goldmark-raw-html']
+[markup.goldmark.renderer]
+unsafe = true

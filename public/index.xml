@@ -13,14 +13,14 @@
       <link>http://localhost:1313/mi_primera_web/public/posts/ejercicio-1/</link>
       <pubDate>Mon, 07 Apr 2025 16:11:27 +0200</pubDate>
       <guid>http://localhost:1313/mi_primera_web/public/posts/ejercicio-1/</guid>
-      <description>&lt;h1 id=&#34;ejercicio-1&#34;&gt;Ejercicio 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dear-data-ejemplo&#34;&gt;Dear data ejemplo&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;práctica-basada-en-el-libro-dear-data&#34;&gt;Práctica basada en el libro &amp;ldquo;Dear data&amp;rdquo;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;toma-de-datos-en-la-vía-urbana-acerca-de-cómo-se-comporta-la-gente-en-la-entrada-y-salida-del-tren&#34;&gt;Toma de datos en la vía urbana acerca de cómo se comporta la gente en la entrada y salida del tren.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mi_primera_web/public/img/ejercicio1.jpg&#34; alt=&#34;ejercicio1&#34;&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;search-container&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;ciudad&#34; placeholder=&#34;Ingresa la ciudad&#34;&gt;&#xA;    &lt;button id=&#34;submit&#34;&gt;Buscar&lt;/button&gt;&#xA;&lt;/div&gt;&#xA;&lt;script src=&#34;https://unpkg.com/p5js@1.2.18/p5.js/p5.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;sketch.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     <item>
       <title>Mi Primer Post</title>
       <link>http://localhost:1313/mi_primera_web/public/posts/mi-primer-post/</link>
       <pubDate>Mon, 31 Mar 2025 18:45:08 +0200</pubDate>
       <guid>http://localhost:1313/mi_primera_web/public/posts/mi-primer-post/</guid>
-      <description>&lt;h1 id=&#34;este-es-mi-primer-post&#34;&gt;Este es mi primer post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;esta-es-una-descipcion-del-post&#34;&gt;Esta es una descipcion del post&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;este-es-mi-primer-post&#34;&gt;Este es mi primer post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;esta-es-una-descipcion-del-post&#34;&gt;Esta es una descipcion del post&lt;/h2&gt;&#xA;&lt;div class=&#34;search-container&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;ciudad&#34; placeholder=&#34;Ingresa la ciudad&#34;&gt;&#xA;    &lt;button id=&#34;submit&#34;&gt;Buscar&lt;/button&gt;&#xA;&lt;/div&gt;&#xA;&lt;script src=&#34;https://unpkg.com/p5js@1.2.18/p5.js/p5.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;sketch.js&#34;&gt;&lt;/script&gt;</description>
     </item>
   </channel>
 </rss>
